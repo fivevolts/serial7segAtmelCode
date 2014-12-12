@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "serial7seg", "serial7seg.cproj", "{45ECCE61-5246-4638-B206-9435FC1E7A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45ECCE61-5246-4638-B206-9435FC1E7A68}.Debug|AVR.ActiveCfg = Debug|AVR
+		{45ECCE61-5246-4638-B206-9435FC1E7A68}.Debug|AVR.Build.0 = Debug|AVR
+		{45ECCE61-5246-4638-B206-9435FC1E7A68}.Release|AVR.ActiveCfg = Release|AVR
+		{45ECCE61-5246-4638-B206-9435FC1E7A68}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
